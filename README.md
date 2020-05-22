@@ -5,7 +5,7 @@
 ## Alterações
 Desde a pimeira fase alteramos algumas coisas, para conseguir realizar o pedido pela segunda fase. Dessas alterações temos:
 * Alteraração do código;
-* 
+* as alterações que não estão todas ditas no relatório. 
 
 
 ## Contactos
