@@ -2,3 +2,4 @@
 # Infection APP
 ## Changes: 
 Desde a pimeira fase alteramos o código, para conseguir realizar o pedido pela segunda fase. Dessas alterações temos:
+* Alterar o código para NTIER
