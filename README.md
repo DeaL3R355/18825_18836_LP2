@@ -7,5 +7,5 @@ Desde a pimeira fase alteramos algumas coisas, para conseguir realizar o pedido 
 
 
 ## Contactos
->João Fernandes: a18825@alunos.ipca.pt
->Carlos Martins: a18836@alunos.ipca.pt
+>João Fernandes: a18825@alunos.ipca.pt;
+>Carlos Martins: a18836@alunos.ipca.pt;
