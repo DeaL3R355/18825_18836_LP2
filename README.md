@@ -6,7 +6,7 @@
 Desde a pimeira fase alteramos algumas coisas, para conseguir realizar o pedido pela segunda fase. Dessas alterações temos:
 * Alteraração do código;
 * As alterações que não estão todas ditas no relatório, vamos entregá-lo completo no dia 29!
-* Atualização: Foi colocado no dia 29 de Maio a versão final do trabalho!
+* Atualização: Foi colocado no dia 29 de Maio a versão final do trabalho junto com o relatório!
 
 
 ## Contactos
